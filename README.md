@@ -35,6 +35,7 @@
 
 - Python 3.7 or higher
 - tkinter (usually comes with Python)
+- Alternatively just use the precompiled EXE from this repo
 
 ### Quick Start
 
@@ -48,6 +49,8 @@ cd file-bypasser
 ```bash
 python bypass_tool.py
 ```
+
+**Alternatively just use the precompiled EXE from this repo!**
 
 That's it! No external dependencies required.
 
