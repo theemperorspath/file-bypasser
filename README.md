@@ -40,8 +40,8 @@
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/0days-bypass-tool.git
-cd 0days-bypass-tool
+git clone https://github.com/theemperorspath/file-bypasser.git
+cd file-bypasser
 ```
 
 2. **Run the tool**
